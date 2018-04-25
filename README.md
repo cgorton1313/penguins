@@ -19,3 +19,13 @@ To see some really interesting examples, try: https://p5js.org/examples/
 1. Go to your /penguins directory, open the penguins.html file.
 
 You should have an extraordinary rectangle in your browser! (Trust me, it gets better...)
+
+## What's going on?
+Your browser is showing (rendering) the penguins.html. There's almost nothing in that file, but notice that we're including two scripts (Javascript files). The first is p5.js, which is the framework we're using. The second is penguins.js, which is the source code we'll be playing with.
+
+You can close the html file in your text editor. Let's look at the js file. You can see just two functions, setup() and draw(). In Processing, setup() runs once at the start of execution, and draw continually loops at a default rate of 60 frames/second.
+
+Guess what setup() is doing. Yup, it just creates your "canvas" which is your visual sandbox. For now, we'll specify the size in pixels, width then height.
+
+How about draw()? It's setting the background color of the canvas. What are the three parameters we passed in? Now is a good time to become familiar with the API reference. Go to [this page](https://p5js.org/reference/), find background() and click on it to get to a page describing this function.
+
