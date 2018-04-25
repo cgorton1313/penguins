@@ -29,3 +29,7 @@ Guess what setup() is doing. Yup, it just creates your "canvas" which is your vi
 
 How about draw()? It's setting the background color of the canvas. What are the three parameters we passed in? Now is a good time to become familiar with the API reference. Go to [this page](https://p5js.org/reference/), find background() and click on it to get to a page describing this function.
 
+You can do a web search for "rgb color picker" and choose one you like. That might be helpful.
+
+## What's next?
+From here, your handy dandy instructor will guide you. Enjoy!
