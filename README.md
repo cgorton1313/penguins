@@ -15,8 +15,7 @@ To see some really interesting examples, try: https://p5js.org/examples/
 1. Create a blank file with your text editor and save it into the /penguins directory as "penguins.html" (no quotes)
 1. Create another blank file and save it to the same place as "penguins.js" (no quotes)
 1. Copy the contents of [penguins.html](https://github.com/cgorton1313/penguins/blob/master/penguins.html) into your html file and save it.
-1. In your directory, open the html file.
+1. Copy the contents of [penguins-01.js](https://github.com/cgorton1313/penguins/blob/master/penguins-01.js) into your js file and save it.
+1. Go to your /penguins directory, open the penguins.html file.
 
 You should have an extraordinary rectangle in your browser! (Trust me, it gets better...)
-
-## What's going on?
