@@ -8,6 +8,10 @@ To see all the cool functionality (the API), go here: https://p5js.org/reference
 
 To see some really interesting examples, try: https://p5js.org/examples/
 
+(I especially like this one: https://www.openprocessing.org/sketch/492096)
+
+___
+
 ## Set up
 1. You'll need a simple text editor. You do have a simple text editor don't you?
 1. You'll need a browser. I KNOW you have a browser. I happen to like Chrome.
