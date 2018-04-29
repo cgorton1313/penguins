@@ -16,10 +16,8 @@ ___
 1. You'll need a simple text editor. You do have a simple text editor don't you?
 1. You'll need a browser. I KNOW you have a browser. I happen to like Chrome.
 1. Create a working directory (folder) somewhere convenient. Call it "penguins"
-1. Create a blank file with your text editor and save it into the /penguins directory as "penguins.html" (no quotes)
-1. Create another blank file and save it to the same place as "penguins.js" (no quotes)
-1. Copy the contents of [penguins.html](https://github.com/cgorton1313/penguins/blob/master/penguins.html) into your html file and save it.
-1. Copy the contents of [penguins-01.js](https://github.com/cgorton1313/penguins/blob/master/penguins-01.js) into your js file and save it.
+1. Save the contents of [penguins.html](https://github.com/cgorton1313/penguins/blob/master/penguins.html) into your /penguins folder.
+1. Save the contents of [penguins-01.js](https://github.com/cgorton1313/penguins/blob/master/penguins-01.js) into your /penguins folder.
 1. Go to your /penguins directory, open the penguins.html file.
 
 You should have an extraordinary rectangle in your browser! (Trust me, it gets better...)
