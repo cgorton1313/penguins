@@ -10,15 +10,15 @@ To see some really interesting examples, try: https://p5js.org/examples/
 
 (I especially like this one: https://www.openprocessing.org/sketch/492096)
 
+And finally, http://gortondesign.com/processing/p5js/penguins.html
+
 ___
 
 ## Set up
 1. You'll need a simple text editor. You do have a simple text editor don't you?
 1. You'll need a browser. I KNOW you have a browser. I happen to like Chrome.
-1. Create a working directory (folder) somewhere convenient. Call it "penguins"
-1. Save the contents of [penguins.html](https://github.com/cgorton1313/penguins/blob/master/penguins.html) into your /penguins folder.
-1. Save the contents of [penguins-01.js](https://github.com/cgorton1313/penguins/blob/master/penguins-01.js) into your /penguins folder.
-1. Go to your /penguins directory, open the penguins.html file.
+1. Use the "Clone or Download" button (above, to the right) to download a zip folder to your computer.
+1. Go to that folder, unzip it, and double-click the penguins.html file.
 
 You should have an extraordinary rectangle in your browser! (Trust me, it gets better...)
 
