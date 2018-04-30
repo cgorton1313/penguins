@@ -1,16 +1,8 @@
 # Processing Penguins
 
-Just a simple walk-thru using p5.js to explain why "for" loops are useful.
+Starter files for a simple exercise using p5.js to explain why "for" loops are useful.
 
-p5.js is a Javascript implementation of Processing.
-
-To see all the cool functionality (the API), go here: https://p5js.org/reference/
-
-To see some really interesting examples, try: https://p5js.org/examples/
-
-(I especially like this one: https://www.openprocessing.org/sketch/492096)
-
-And finally, http://gortondesign.com/processing/p5js/penguins.html
+Here's an example: http://gortondesign.com/processing/p5js/penguins.html
 
 ___
 
