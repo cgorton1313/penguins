@@ -2,8 +2,11 @@
 
 Starter files for a simple exercise using p5.js to explain why "for" loops are useful.
 
-Here's an example: http://gortondesign.com/processing/p5js/penguins.html
+A few examples:
 
+* https://www.openprocessing.org/sketch/492096
+* https://www.openprocessing.org/sketch/461806
+* http://gortondesign.com/processing/p5js/penguins.html
 ___
 
 ## Set up
